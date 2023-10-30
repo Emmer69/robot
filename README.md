@@ -1,1 +1,4 @@
-# robot
+Robotics is one of the topics from advanced technology that helps you to develop creative thinking skills and sharpen your mind. Robotics also helps you to see what’s happening behind these cool machines. 
+Guruface is conducting a free webinar on robotics for kids (8-18years).
+Guruface's innovative webinar will transport young minds into the fascinating world of robotics, where they'll embark on an educational adventure like no other. Geared towards budding engineers and tech enthusiasts, this webinar will introduce children to the fundamental concepts of robotics through interactive demonstrations, hands-on activities, and engaging discussions. Our expert instructors will guide participants as they explore the principles of programming, mechanics, and automation, all while having a blast. By the end of this exciting webinar, kids will have a newfound appreciation for robotics and the skills to kickstart their own robotic creations. 
+Join us at GuruFace and let your child's imagination soar as they discover the wonders of robotics! https://www.guruface.com/webinar/free-webinar-on-robotics-for-kids/289
